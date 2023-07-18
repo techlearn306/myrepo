@@ -1,2 +1,4 @@
 This is sample file 
-using for git practice
+java is object orineted programing
+java is secure
+java is distributed
